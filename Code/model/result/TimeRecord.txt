@@ -1,0 +1,28 @@
+This is the record of time for different models and different iterations.
+
+model1
+RT(1e6 photons, sample_photons= 10, sample_dist= 0.5): 676.572s
+PM(1e6 photons, sample_photons= 10, sample_dist= 0.5): 670.657s
+PM(1e7 photons, sample_photons= 500, sample_dist= 1): 722.575s
+PPM Iteration=100(1e6 photons, sample_photons= 10, sample_dist= 0.5): 658.041s
+PPM Iteration=500(1e6 photons, sample_photons= 10, sample_dist= 0.5): 1262.225s
+PPM Iteration=1000(1e6 photons, sample_photons= 10, sample_dist= 0.5): 1829.251s
+PPM Iteration=2000(1e6 photons, sample_photons= 10, sample_dist= 0.5): 3034.224s
+
+model2
+RT(1e6 photons, sample_photons= 10, sample_dist= 0.1): 449.229s
+PM(1e6 photons, sample_photons= 10, sample_dist= 0.5): 457.427s
+PM(2e7 photons, sample_photons= 500, sample_dist= 1): 489.547s
+PPM Iteration=100(1e6 photons, sample_photons= 10, sample_dist= 0.1): 537.225S
+PPM Iteration=500(1e6 photons, sample_photons= 10, sample_dist= 0.1): 751.345s
+PPM Iteration=1000(1e6 photons, sample_photons= 10, sample_dist= 0.1): 998.553s
+PPM Iteration=2000(1e6 photons, sample_photons= 10, sample_dist= 0.1): 1004.26s
+
+model3
+RT(1e6 photons, sample_photons= 10, sample_dist= 0.1): 19.457s
+PM(1e6 photons, sample_photons= 10, sample_dist= 0.5): 20.495s
+PM(2e7 photons, sample_photons= 500, sample_dist= 1): 20.902s
+PPM Iteration=100(1e6 photons, sample_photons= 10, sample_dist= 0.1): 44.847s
+PPM Iteration=500(1e6 photons, sample_photons= 10, sample_dist= 0.1): 119.722s
+PPM Iteration=1000(1e6 photons, sample_photons= 10, sample_dist= 0.1): 214.063s
+PPM Iteration=2000(1e6 photons, sample_photons= 10, sample_dist= 0.1): 413.245s
