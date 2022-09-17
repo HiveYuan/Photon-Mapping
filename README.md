@@ -1,2 +1,2 @@
 # Photon-Mapping
-Summer Research guided by UCB Prof. JOB in 2020  
+Summer project guided by UCB Prof. JOB in 2020  
